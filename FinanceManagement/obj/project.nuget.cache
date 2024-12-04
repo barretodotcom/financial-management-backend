@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KfwVCPZLfsI=",
+  "dgSpecHash": "ajgOVBKP/fs=",
   "success": true,
   "projectFilePath": "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vitor.alves\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\vitor.alves\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\vitor.alves\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\vitor.alves\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
