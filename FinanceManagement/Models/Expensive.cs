@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace FinanceManagement.Models
 {
 
@@ -14,6 +9,8 @@ namespace FinanceManagement.Models
     public class Expensive
     {
         public Guid Id { get;set; }
+        public Guid UserId { get;set; }
+        public User User { get;set; }
         public string Description { get;set; }
         public decimal Value { get;set; }
         public DateTime Date { get;set; }

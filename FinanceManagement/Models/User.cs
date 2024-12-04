@@ -7,6 +7,5 @@ namespace FinanceManagement.Models
 {
     public class User
     {
-        
     }
 }
