@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.xavier\\Projects\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj": {}
+    "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.xavier\\Projects\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj": {
+    "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.xavier\\Projects\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj",
+        "projectUniqueName": "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj",
         "projectName": "FinanceManagement",
-        "projectPath": "C:\\Users\\lucas.xavier\\Projects\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj",
-        "packagesPath": "C:\\Users\\lucas.xavier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.xavier\\Projects\\financial-management-backend\\FinanceManagement\\obj\\",
+        "projectPath": "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\FinanceManagement.csproj",
+        "packagesPath": "C:\\Users\\vitor.alves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.alves\\Desktop\\estudo\\financial-management-backend\\FinanceManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas.xavier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vitor.alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
