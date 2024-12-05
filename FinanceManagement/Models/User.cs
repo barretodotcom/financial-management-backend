@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations.Operations;
 public class User
 {
     public Guid Id { get; set; }
-    public List<Expensive> Expensives { get; set; }
+    public List<Expense> Expenses { get; set; }
     public string UserName { get; set; }
     
     public string HashedPassword { get; set; }

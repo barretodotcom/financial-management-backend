@@ -24,11 +24,6 @@ public class AuthController : ControllerBase
 
         var token = _authService.Auth(authUser);
 
-        if (token == null)
-        {
-            return Unauthorized("Credenciais inválidas");
-        }
-
         return Ok(new { Token = token });
     }
 

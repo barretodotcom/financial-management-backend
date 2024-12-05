@@ -9,5 +9,6 @@ namespace FinanceManagement.Business.Auth.Services
     public interface IAuthService
     {
        string Auth(AuthUser authUser); 
+       public string ValidateJwtToken(string token);
     }
 }

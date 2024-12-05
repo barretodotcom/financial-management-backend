@@ -21,6 +21,12 @@ namespace FinanceManagement.Business.Users.Repositories
             return Context.User.FirstOrDefault(l => l.UserName == username);
         }
 
+
+        public User? Find(Guid id)
+        {
+            return Context.User.FirstOrDefault(l => l.Id == id);
+        }
+
         public void Save(User user)
         {
             Context.User.Add(user);

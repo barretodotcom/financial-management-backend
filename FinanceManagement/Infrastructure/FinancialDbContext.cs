@@ -6,7 +6,7 @@ namespace FinanceManagement.Infrastructure
 {
     public class FinancialDbContext : DbContext
     {
-        public DbSet<Expensive> Expensives { get; set; }   
+        public DbSet<Expense> Expenses { get; set; }   
         public DbSet<User> User { get; set; }   
 
         public FinancialDbContext(DbContextOptions<FinancialDbContext> options)
@@ -19,7 +19,7 @@ namespace FinanceManagement.Infrastructure
             var userTypeBuilder = modelBuilder.Entity<User>();
 
             userTypeBuilder
-                .HasMany(l => l.Expensives)
+                .HasMany(l => l.Expenses)
                 .WithOne(l => l.User)
                 .HasForeignKey(l => l.UserId);
 
